@@ -1,0 +1,28 @@
+
+.navbar-inverse { background-color: #b5ce00; border-color: #b5ce00; }
+@media all and (max-width: 800px){
+	
+}
+body { margin: 0; padding: 1px; }
+
+.navbar-inverse .navbar-nav>li>a { color: #F2F2F2; text-transform: uppercase; }
+header {margin-top: 100px; height: 400px;}
+.jumbotron {
+	height: 400px; width: 100%; margin: 0;
+}
+.container-fluid { margin: 0;  }
+.banniere {  background: url(../img/ban2.jpg)no-repeat;
+			height: 300px;  }
+.container	{ width: 960px; }
+p { font-size: 11px; }
+h1 { font-size: 20px; }
+.pict { width: 200px; height: 130px; margin-top: 25px; }
+.date { color: #868686; font-size: 12px; }
+.overpict { width: 70px; height: 70px; margin-top: 20px; }
+.bandeau { background-color: #b5ce00; width: 100%; height: 40px; color: white;
+ text-align: left; text-transform: uppercase; font-size: 16px; padding-left: 9px; padding-top: 10px;
+ margin-top: 40px; }
+
+ .logo img { 
+ padding: 10px; height: 80px; width: 80px; }
+ .btn-secondary { background-color: #EEEEEE; margin-bottom: 20px; margin-top: 20px; }
